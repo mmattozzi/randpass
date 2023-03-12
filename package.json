@@ -9,6 +9,8 @@
   "author": "mike.mattozzi@gmail.com",
   "license": "ISC",
   "dependencies": {
+    "command-line-args": "^5.2.1",
+    "command-line-usage": "^7.0.1",
     "random-js": "^2.1.0"
   },
   "bin": {
