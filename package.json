@@ -1,0 +1,17 @@
+{
+  "name": "randpass",
+  "version": "1.0.0",
+  "description": "Generate a random password type of string",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mike.mattozzi@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "random-js": "^2.1.0"
+  },
+  "bin": {
+    "randpass": "./main.js"
+  }
+}
